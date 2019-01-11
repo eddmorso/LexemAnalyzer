@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Main {
-    static String inputString = "a-(b+c)";
+    static String inputString = "(1-3/(f-r)*2)/g+(3*(q+w+r))";
 /*
     розкрити дужки
             конвеєр з постійним тактом
@@ -15,6 +15,7 @@ public class Main {
         System.out.println();
 
         Opener opener = new Opener(inputString);
+        opener.printResult();
 
 //        TreeDrawer treeDrawer = new TreeDrawer();
 //        if (treeDrawer.isReady) {
