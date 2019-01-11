@@ -29,7 +29,7 @@ private List<Token> subToken = new ArrayList<>();
         return value;
     }
 
-    private void setType(Type type) {
+    void setType(Type type) {
         this.type = type;
     }
 

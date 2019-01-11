@@ -1,7 +1,6 @@
 package PZKS;
 
 import java.util.*;
-import java.util.concurrent.CopyOnWriteArrayList;
 
 enum Type{
     CloseParenthesis,

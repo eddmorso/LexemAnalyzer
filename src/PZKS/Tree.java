@@ -30,8 +30,6 @@ private void buildTripletsAmongParenthesis(){
         int begin, end;
         if(tokens.get(i).getType() == Type.CloseParenthesis){
             end = i;
-//            int counter = 0;
-//            int priority;
             while (tokens.get(i).getType() != Type.OpenParenthesis){
                 if(tokens.get(i).getPriority() == Parser.LOW_PRIORITY){
                     //counter++;
@@ -44,17 +42,6 @@ private void buildTripletsAmongParenthesis(){
             List<Token> subTokens = new ArrayList<>(tokens.subList(begin + 1, end));
             tokens.subList(begin + 1, end).clear();
             tokens.addAll(begin + 1, buildTriplets(subTokens));
-//            priority = counter == 0 ? Parser.HIGH_PRIORITY : Parser.LOW_PRIORITY;
-//
-//            int breaker = 0;
-//            while (breaker == 0){
-//                if(tokens.get(i).getPriority() == priority){
-//                    int parentName = makeThreeNodes(tokens.get(i), tokens.get(i - 1), tokens.get(i + 1));
-//                    replaceWithConst(i - 1, i + 1, parentName);
-//                    breaker = 1;
-//                }
-//                i++;
-//            }
             i = tokens.size();
         }
     }
