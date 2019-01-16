@@ -6,7 +6,20 @@ import java.util.Collections;
 import java.util.List;
 
 class TreeDrawer extends JPanel {
-
+    //        TreeDrawer treeDrawer = new TreeDrawer();
+//        if (treeDrawer.isReady) {
+//
+//            treeDrawer.printTree();
+//
+//            JFrame jFrame = new JFrame("Tree");
+//
+//            treeDrawer.setBackground(Color.WHITE);
+//            jFrame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+//            jFrame.add(treeDrawer);
+//            jFrame.setSize(800, 800);
+//            jFrame.setLocationRelativeTo(null);
+//            jFrame.setVisible(true);
+//        }
     private Tree tree = new Tree();
 
     private List<Node> nodes = tree.nodes;

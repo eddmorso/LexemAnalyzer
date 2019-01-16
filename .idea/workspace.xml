@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14e7b7b6-df42-4163-afee-477fe3880d55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PZKS/Opener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Labs/PZKS/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labs/PZKS/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Labs/PZKS/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labs/PZKS/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Labs/PZKS/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labs/PZKS/Parser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Labs/PZKS/Token.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labs/PZKS/Token.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Labs/PZKS/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labs/PZKS/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Labs/PZKS/Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labs/PZKS/Type.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PZKS/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PZKS/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PZKS/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PZKS/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PZKS/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PZKS/Parser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PZKS/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PZKS/Token.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PZKS/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PZKS/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PZKS/Opener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PZKS/Opener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PZKS/TreeDrawer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PZKS/TreeDrawer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,31 +41,35 @@
     <session id="-1367249154">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="34" />
+          <entry key="project.closed" value="43" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.36" value="2" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.44" value="7" />
+          <entry key="project.open.time.44" value="8" />
           <entry key="project.open.time.45" value="1" />
-          <entry key="project.open.time.46" value="2" />
+          <entry key="project.open.time.46" value="3" />
           <entry key="project.open.time.47" value="2" />
-          <entry key="project.open.time.48" value="1" />
-          <entry key="project.open.time.49" value="2" />
+          <entry key="project.open.time.48" value="2" />
+          <entry key="project.open.time.49" value="3" />
+          <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.55" value="2" />
+          <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.94" value="1" />
-          <entry key="project.opened" value="37" />
+          <entry key="project.opened" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -83,52 +79,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="61" />
+          <entry key="JAVA" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="25" />
-          <entry key="java" value="37097" />
+          <entry key="java" value="38593" />
+          <entry key="txt" value="149" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="37097" />
-          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="JAVA" value="39378" />
+          <entry key="PLAIN_TEXT" value="174" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PZKS/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1547117499751" expanded="true" signature="362:847" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PZKS/Opener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PZKS/TreeDrawer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+            <state relative-caret-position="69">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,12 +112,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PZKS/Parser.java">
+        <entry file="file://$PROJECT_DIR$/src/PZKS/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3434">
-              <caret line="213" column="28" selection-start-line="213" selection-start-column="28" selection-end-line="213" selection-end-column="28" />
+            <state relative-caret-position="68">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PZKS/Token.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
-                <element signature="method#check#0;class#Parser#0" />
+                <element signature="e#400#401#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,27 +142,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PZKS/Token.java">
+        <entry file="file://$PROJECT_DIR$/src/PZKS/TreeDrawer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="39" column="11" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="11" />
+            <state relative-caret-position="306">
+              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PZKS/Opener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
               <folding>
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <marker date="1547453127989" expanded="false" signature="1048:5871" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PZKS/Node.java">
+        <entry file="file://$PROJECT_DIR$/src/PZKS/Opening/DistributiveAnalyzer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="171">
+              <caret line="181" column="50" lean-forward="true" selection-start-line="181" selection-start-column="50" selection-end-line="181" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#7335#7343#0" expanded="true" />
+                <marker date="1547386380322" expanded="true" signature="9279:9359" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -200,13 +194,32 @@
       <list>
         <option value="$PROJECT_DIR$/src/PZKS/Lab1.java" />
         <option value="$PROJECT_DIR$/src/PZKS/SubTree.java" />
-        <option value="$PROJECT_DIR$/src/PZKS/TreeDrawer.java" />
         <option value="$PROJECT_DIR$/src/PZKS/Parser.java" />
         <option value="$PROJECT_DIR$/src/PZKS/Tree.java" />
         <option value="$PROJECT_DIR$/src/PZKS/Node.java" />
         <option value="$PROJECT_DIR$/src/PZKS/Token.java" />
-        <option value="$PROJECT_DIR$/src/PZKS/Main.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/DistributiveAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/SyntaxAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opener/TypeOfToken.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opener/DistributiveAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opener/SyntaxAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opener/Token.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opener/Token1.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Open.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opener/LexicalExceptio.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opener/LexicalException.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opener/TypeOfSymbols.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opener/Context.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opener/AnalyzerStates.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opener/LexicalAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opening.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/q.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opening/CommutativeAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opening/SyntaxAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Opening/DistributiveAnalyzer.java" />
         <option value="$PROJECT_DIR$/src/PZKS/Opener.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/TreeDrawer.java" />
+        <option value="$PROJECT_DIR$/src/PZKS/Main.java" />
       </list>
     </option>
   </component>
@@ -223,17 +236,16 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="168" />
-    <option name="y" value="-8" />
-    <option name="width" value="784" />
-    <option name="height" value="788" />
+    <option name="x" value="21" />
+    <option name="y" value="-9" />
+    <option name="width" value="1346" />
+    <option name="height" value="242" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,13 +269,14 @@
               <item name="Labs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PZKS" type="462c0819:PsiDirectoryNode" />
-              <item name="Parser.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Opening" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,10 +286,14 @@
     <property name="SearchEverywhereHistoryKey" value="Variab&#9;PSI&#9;JAVA://PZKS.Type#Variable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547119075004" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547388156807" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/PipelineModel" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -296,7 +313,7 @@
       <module name="Labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PZKS.*" />
+          <option name="PATTERN" value="PZKS.Opening.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,18 +373,51 @@
       <workItem from="1545921168403" duration="2019000" />
       <workItem from="1546508713472" duration="627000" />
       <workItem from="1547113214759" duration="4937000" />
-      <workItem from="1547195401124" duration="259000" />
+      <workItem from="1547195401124" duration="12947000" />
+      <workItem from="1547216826008" duration="714000" />
+      <workItem from="1547282083145" duration="5456000" />
+      <workItem from="1547377534847" duration="8624000" />
+      <workItem from="1547389307651" duration="603000" />
+      <workItem from="1547390168127" duration="194000" />
+      <workItem from="1547390730190" duration="2437000" />
+      <workItem from="1547472636140" duration="153000" />
+      <workItem from="1547477259962" duration="791000" />
+      <workItem from="1547626952380" duration="1518000" />
     </task>
+    <task id="LOCAL-00001" summary="create opener">
+      <created>1547195731484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547195731484</updated>
+    </task>
+    <task id="LOCAL-00002" summary="few methods for opening handling">
+      <created>1547212735329</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547212735329</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289011000" />
+    <option name="totallyTimeSpent" value="322189000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18305598" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21028744" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -376,15 +426,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34262297" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3409836" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295082" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
@@ -436,7 +486,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="create opener" />
+    <MESSAGE value="few methods for opening handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="few methods for opening handling" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -495,33 +547,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PZKS/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1547117499751" expanded="true" signature="362:847" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PZKS/TreeDrawer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PZKS/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3434">
+        <state relative-caret-position="528">
           <caret line="213" column="28" selection-start-line="213" selection-start-column="28" selection-end-line="213" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Opening/TypeOfToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Opening/Token1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Opening/LexicalException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Opening/TypeOfSymbols.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Opening/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Opening/AnalyzerStates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1160">
+          <caret line="255" column="50" lean-forward="true" selection-start-line="255" selection-start-column="50" selection-end-line="255" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Opening/LexicalAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Opening/CommutativeAnalyzer.java" />
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Opening/SyntaxAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="137" column="41" selection-start-line="137" selection-start-column="41" selection-end-line="137" selection-end-column="41" />
           <folding>
-            <element signature="method#check#0;class#Parser#0" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#400#401#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -533,39 +638,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PZKS/Token.java">
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Opener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="39" column="11" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="11" />
+        <state relative-caret-position="217">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding>
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <marker date="1547453127989" expanded="false" signature="1048:5871" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PZKS/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/PZKS/TreeDrawer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="306">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PZKS/Opener.java">
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Opening/DistributiveAnalyzer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="171">
+          <caret line="181" column="50" lean-forward="true" selection-start-line="181" selection-start-column="50" selection-end-line="181" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7335#7343#0" expanded="true" />
+            <marker date="1547386380322" expanded="true" signature="9279:9359" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PZKS/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Labs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
