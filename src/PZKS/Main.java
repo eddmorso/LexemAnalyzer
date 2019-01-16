@@ -1,10 +1,7 @@
 package PZKS;
 
-import javax.swing.*;
-import java.awt.*;
-
 public class Main {
-    static String inputString = "(2+m)*(a+9/b-c);";
+    static String inputString = "(a+b)*(7+g+h/4)";
 /*
     розкрити дужки
             конвеєр з постійним тактом
@@ -14,8 +11,8 @@ public class Main {
         System.out.println(inputString);
         System.out.println();
 
-        Opener opener = new Opener();
-        opener.doOpening();
+        Opener opener = new Opener(inputString);
+        opener.printResult();
 
     }
 }
